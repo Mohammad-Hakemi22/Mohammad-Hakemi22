@@ -16,10 +16,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-hakemi22&theme=dark" alt="mohammad-hakemi22" /></p>
-
-
-
-
 <a href="https://github.com/Mohammad-Hakemi22">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mohammad-Hakemi22&layout=compact&theme=radical" />
 </a>
