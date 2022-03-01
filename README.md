@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">Back-end & Blockchain developer | Image Processing | MS of computer engineering</h3>
 
-- 🎯 I’m currently working on [BCKEC](https://github.com/Mohammad-Hakemi22/BCKEC)
+- 🎯 I’m currently working on Master's thesis
 
 - 💻 I’m currently learning **Golang**
 
