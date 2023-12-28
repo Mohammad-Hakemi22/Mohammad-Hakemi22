@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">Back-end & Blockchain developer | Image Processing | MS of computer engineering</h3>
 
-- 🎯 I’m currently working on Master's thesis
-
-- 💻 I’m currently learning **Golang**
+- 💻 Embedded Software Engineer
+  
+- 💻 Back-end developer
 
 - 📫 How to reach me **hakemi.mohammad.22@gmail.com**
 
