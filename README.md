@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">Back-end & Blockchain developer | Image Processing | MS of computer engineering</h3>
+<h3 align="center">Back-end & Embedded developer | Image Processing | MS of computer engineering</h3>
 
-- 💻 Embedded Software Engineer
+- 💻 Embedded Software Engineer (STM32-FPGA)
   
-- 💻 Back-end developer
+- 💻 Back-end developer (Golang-Python)
 
 - 📫 How to reach me **hakemi.mohammad.22@gmail.com**
 
