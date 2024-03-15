@@ -3,7 +3,7 @@
 
 - 💻 Embedded Software Engineer (STM32-FPGA)
   
-- 💻 Back-end developer (Golang-Python)
+- 💻 Back-end developer (C-Rust-Golang-Python)
 
 - 📫 How to reach me **hakemi.mohammad.22@gmail.com**
 
